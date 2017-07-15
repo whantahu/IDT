@@ -1,0 +1,28 @@
+#player,#player a{color:#fff;}
+#player{background:url(http://4.bp.blogspot.com/-I5p2cecMDkw/WWnDYnnaxHI/AAAAAAAABbQ/UG8eJGMDGw8z0DNIO6GB_ghzfJdzjguJACK4BGAYYCw/s1600/Planodefundo.jpg); background-position:bottom;}
+#player .mainImage{background:url(http://4.bp.blogspot.com/-NPEOJescOUQ/WWnDfj1eKLI/AAAAAAAABbY/HzdKP3CFctklEKmcLf-hUmMPncxlz4yqQCK4BGAYYCw/s1600/Skin%2Bv2.png);}
+
+#player #baseLeft{ width:93px; }
+#player #baseRight{ width:145px;}
+#player .button{  width:22px; }
+#player #play{ background:transparent;}
+#player #play,#player #pause{ left:32px; }
+#player #previous{ left:8px; }
+#player #next{ left:55px; }
+#player #title{ left:95px;  }
+#player #tooltip{ right:196px; }
+#player #timer{ right:122px;  }
+#player #list{ right:5px; }
+
+#player #seeker{ right:320px; }
+#player #seekerBase{ border-color:#fff; }
+#player #seekerBuffered{ background-color:#fff; }
+#player #seekerSliderBase{ background-color:#FF1493; }
+
+#player #volume{ width:70px; right:33px; }
+#player #volumeSlider{ width:11px; height:12px; margin-top:07px; background:#fff; }
+
+#playlist,#playlist .module,#playlist h3{border-bottom: 1px #FF1493 solid;}
+#playlist h3{color: #FF1493; text-align:center; text-transform:uppercase;}
+#playlist .even{background-color:#FFF;border-bottom: 1px #000000 solid;}
+#playlist .odd{ background-color:#fff;border-bottom: 1px #000000 solid;}
